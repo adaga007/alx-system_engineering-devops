@@ -1,0 +1,1 @@
+this script is print the current working directory of any given file
